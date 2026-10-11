@@ -4,5 +4,4 @@ def saudacao(nome):
 nome = input("Digite seu nome: ")
 
 print(saudacao(nome))
-
-print("Codido editado no Acorde!")
+print("Meu codigo  foi editado no Acorde!")
